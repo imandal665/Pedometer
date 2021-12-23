@@ -7,20 +7,20 @@
     android:fitsSystemWindows="true"
     tools:context=".MainActivity">
 
-    <androidx.appcompat.widget.Toolbar
-        android:id="@+id/main_activity_toolbar"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+<!--    <androidx.appcompat.widget.Toolbar-->
+<!--        android:id="@+id/main_activity_toolbar"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content">-->
 
-    </androidx.appcompat.widget.Toolbar>
+<!--    </androidx.appcompat.widget.Toolbar>-->
 
-    <TextView
-        android:id="@+id/steps_textView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center|bottom"
-        android:layout_marginBottom="50sp"
-        android:text="Hello World!" />
+<!--    <TextView-->
+<!--        android:id="@+id/steps_textView"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_gravity="center|bottom"-->
+<!--        android:layout_marginBottom="50sp"-->
+<!--        android:text="Hello World!" />-->
 
     <com.airbnb.lottie.LottieAnimationView
         android:id="@+id/walking_animation"
